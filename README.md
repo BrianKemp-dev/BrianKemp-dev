@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Brian Kemp 👋
 
-<!--
-**BrianKemp-dev/BrianKemp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I enjoy building useful software, learning new technologies, and sharing what I create.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I like working on practical projects that solve real problems.
+- 🌱 I’m always learning and improving my development skills.
+- 🤝 I’m open to collaborating on interesting ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Project One](https://github.com/BrianKemp-dev?tab=repositories) — A project I’m proud of and continuing to improve.
+- [Project Two](https://github.com/BrianKemp-dev?tab=repositories) — Another project that shows my growth as a developer.
+- [Project Three](https://github.com/BrianKemp-dev?tab=repositories) — A project where I explored new tools and techniques.
+
+## Let’s Connect
+- Check out my repositories: [github.com/BrianKemp-dev](https://github.com/BrianKemp-dev?tab=repositories)

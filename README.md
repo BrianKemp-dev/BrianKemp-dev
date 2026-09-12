@@ -9,9 +9,8 @@ I enjoy building useful software, learning new technologies, and sharing what I 
 - 🤝 I’m open to collaborating on interesting ideas.
 
 ## Featured Projects
-- [Project One](https://github.com/BrianKemp-dev?tab=repositories) — A project I’m proud of and continuing to improve.
-- [Project Two](https://github.com/BrianKemp-dev?tab=repositories) — Another project that shows my growth as a developer.
-- [Project Three](https://github.com/BrianKemp-dev?tab=repositories) — A project where I explored new tools and techniques.
+- [Portofolio](https://github.com/BrianKemp-dev/Portofolio) — My HTML/CSS/JavaScript portfolio site with multiple pages and interactive quiz content.
+- [BrianKemp-dev](https://github.com/BrianKemp-dev/BrianKemp-dev) — My GitHub profile repository where I maintain this README.
 
 ## Let’s Connect
 - Check out my repositories: [github.com/BrianKemp-dev](https://github.com/BrianKemp-dev?tab=repositories)
